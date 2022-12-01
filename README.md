@@ -35,7 +35,7 @@ Phone number and email are a part of the contact info so this data will be maske
 6. After clicking the Submit button, all the data will be stored in a JSON file.
 
 
-3. **Create a delivery calculator where the user can see the cost of the product depending on the delivery time, product weight, and location.**
+**3. Create a delivery calculator where the user can see the cost of the product depending on the delivery time, product weight, and location.**
 
 
 
