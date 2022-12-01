@@ -7,7 +7,7 @@
 
 
 
-######**1. Write a JavaScript program that hides/masks any type of contact info related to any user.**
+**1. Write a JavaScript program that hides/masks any type of contact info related to any user.**
 
 **Input:**
 ```
@@ -25,7 +25,7 @@ You can connect with me via my phone number ******, or you can email me at *****
 
 Phone number and email are a part of the contact info so this data will be masked.
 
-######**2. Given a demo website’s HTML and CSS, try to add the following functionality using JavaScript.**
+**2. Given a demo website’s HTML and CSS, try to add the following functionality using JavaScript.**
 
 1. A user should be able to increase or decrease the number of products.
 2. A user should be able to see the total cost of the product while checkout.
@@ -35,7 +35,7 @@ Phone number and email are a part of the contact info so this data will be maske
 6. After clicking the Submit button, all the data will be stored in a JSON file.
 
 
-######3. **Create a delivery calculator where the user can see the cost of the product depending on the delivery time, product weight, and location.**
+3. **Create a delivery calculator where the user can see the cost of the product depending on the delivery time, product weight, and location.**
 
 
 
